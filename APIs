@@ -1,4 +1,6 @@
-{
+
+[
+  {
      "SpoofingIDS":{
         "ID1": "378293683256164352",
         "Name1": "RageMP",
@@ -69,6 +71,7 @@
         "ID34": "801133024841957428",
         "Name34": "Poker QA",
         "ID35": "945748195256979606",
-        "Name35": "Putt Party QA",
+        "Name35": "Putt Party QA"
     }
 }
+]
