@@ -1,8 +1,12 @@
 [
   {
-    "Webstatus":"Online",
-    "Discord":"Online",
-    "Service":"Online"
+    "Status":{
+    "Webstatus": "Online",
+    "Discord": "Online",
+    "Service": "Online"
+    
+    
+    }
   
   
   
